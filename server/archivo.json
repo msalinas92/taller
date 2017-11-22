@@ -1,0 +1,23 @@
+{
+    "personas": [{
+        "nombre": "Daniel",
+        "apellido": "Gonzalez",
+        "apodo": "Dani"
+    }, {
+        "nombre": "Cesar",
+        "apellido": "Araya",
+        "apodo": "Cerjam"
+    }, {
+        "nombre": "Matias",
+        "apellido": "Salinas",
+        "apodo": "Mati"
+    }, {
+        "nombre": "Jose",
+        "apellido": "Ordoñez",
+        "apodo": "Chiwire"
+    }, {
+        "nombre": "Álvaro",
+        "apellido": "Vergara",
+        "apodo": "alvarix"
+    } ]
+}
